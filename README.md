@@ -35,6 +35,31 @@ Next wallpaper:
 omarchy theme bg next
 ```
 
+## Wallpapers
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="backgrounds/01-walnut-after-dark.png"><img src="backgrounds/01-walnut-after-dark.png" width="420" alt="Walnut After Dark: dark walnut and leather with a fine orange-red light seam"></a><br>
+      <sub>Walnut After Dark</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="backgrounds/02-emberline.png"><img src="backgrounds/02-emberline.png" width="420" alt="Emberline: near-black sculpted curves edged in orange-red light"></a><br>
+      <sub>Emberline</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="backgrounds/03-night-road.jpg"><img src="backgrounds/03-night-road.jpg" height="260" alt="Night Road: red-orange light trails on a dark winding road"></a><br>
+      <sub>Night Road</sub>
+    </td>
+    <td align="center">
+      <a href="backgrounds/04-black-orange-curves.jpg"><img src="backgrounds/04-black-orange-curves.jpg" height="260" alt="Black and Orange Curves: glowing amber curves against black"></a><br>
+      <sub>Black and Orange Curves</sub>
+    </td>
+  </tr>
+</table>
+
 ## Details
 
 [Palette, color science, and compatibility](artwork/DETAILS.md) · [Wallpaper credits](artwork/CREDITS.md) · [Theme: MIT](LICENSE)

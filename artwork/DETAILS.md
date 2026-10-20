@@ -21,6 +21,8 @@ This preserves dominant hue while reducing saturation to fit sRGB. It is not a m
 
 ## Compatibility
 
+Supported: stable Omarchy 4.x releases with semantic palettes and shell section overrides. Last tested: 2026-10-20 on Omarchy 4.0.6-1; other versions in the range have not been individually tested.
+
 Verified in an isolated omabox desktop with Omarchy 4.0.6-1 and Hyprland 0.56.2. The preview is a genuine 1920 × 1080 SDR screenshot showing Foot, Neovim, and the optional `ric.dd8c` speaker widget with fictional fixture data. The widget is not bundled or required.
 
 Omarchy generates app configurations from `colors.toml`. Shell text is set independently through `shell.bar.toml`; selected controls and focus styling use `shell.controls.toml`. Icon theme: `Yaru-wartybrown-dark`. No install scripts.

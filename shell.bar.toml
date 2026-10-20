@@ -1,0 +1,9 @@
+# Near-black walnut with red-orange legends and ember activity indicators.
+[bar]
+background = "#0f0b07"
+background-alpha = 1.0
+text = "#ff3900"
+active = "#ff3900"
+scale-with-font = true
+size-horizontal = 26
+size-vertical = 28

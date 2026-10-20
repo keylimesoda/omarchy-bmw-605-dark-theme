@@ -1,0 +1,41 @@
+{
+  "default": "backgrounds/01-walnut-after-dark.png",
+  "wallpapers": [
+    {
+      "file": "backgrounds/01-walnut-after-dark.png",
+      "resolution": "1672x941",
+      "sha256": "02356caa16e3ef909c359706a9545952204888d1ae61964d0b45f9a9e2df9eb4",
+      "title": "Walnut After Dark",
+      "origin": "Generated with built-in imagegen",
+      "prompt_file": "artwork/prompts/01-walnut-after-dark.prompt.txt"
+    },
+    {
+      "file": "backgrounds/02-emberline.png",
+      "resolution": "1672x941",
+      "sha256": "5c36edfd59c0c5cc575798030e220be86143dfb71e1717ea845e90d344fb2c28",
+      "title": "Emberline",
+      "origin": "Generated with built-in imagegen",
+      "prompt_file": "artwork/prompts/02-emberline.prompt.txt"
+    },
+    {
+      "file": "backgrounds/03-night-road.jpg",
+      "resolution": "2000x3000",
+      "sha256": "7d2e52bfa83b7f4bf78aff0da7bbda5073491e599d3512128b291817f3fc76d6",
+      "title": "Night Road",
+      "creator": "Benjamin Bl\u00e4ttler",
+      "source": "https://unsplash.com/photos/time-lapse-photography-of-orange-light-J40eheaQ_OE",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license"
+    },
+    {
+      "file": "backgrounds/04-black-orange-curves.jpg",
+      "resolution": "2842x6150",
+      "sha256": "fc2525a83df1572373d492bf64b2daa479f5dcd4e169da34d51423f068fc4a2a",
+      "title": "Black and Orange Curves",
+      "creator": "Warren Umoh",
+      "source": "https://unsplash.com/photos/a-black-and-orange-background-with-curves-FC-2ilPSO6A",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license"
+    }
+  ]
+}

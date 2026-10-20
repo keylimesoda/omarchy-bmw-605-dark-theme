@@ -1,0 +1,36 @@
+# BMW 605 Dark — revised from the supplied terminal-window reference.
+# Swatch values are median samples from the screenshot, rather than original source colors.
+# Surface and trim colors retain the screenshot samples; accent uses a CIE-based 605 nm approximation.
+# Accent: 605 nm CIE 1931 2-degree observer; minimum D65 white to enter sRGB, peak-normalized.
+# The RGB approximation is not a measured calibration of the display.
+# Terminal hues stay within the warm walnut / ember / caramel family.
+
+mode = "dark"
+accent = "#ff3900"
+selection = "#4a2816"
+selection_foreground = "#f3d5a8"
+muted = "#a8875f"
+background = "#080704"
+dark_background = "#060503"
+darker_background = "#040302"
+lighter_background = "#1c150e"
+foreground = "#e7bd85"
+dark_foreground = "#a8875f"
+light_foreground = "#d19f69"
+bright_foreground = "#f3d5a8"
+red = "#f93e29"
+yellow = "#fc934b"
+orange = "#ff3900"
+green = "#be925d"
+cyan = "#d6a575"
+blue = "#ff3900"
+magenta = "#e77b45"
+brown = "#8b4621"
+bright_red = "#ff6040"
+bright_yellow = "#ffb273"
+bright_green = "#d3a66e"
+bright_cyan = "#e9bb87"
+bright_blue = "#fa8536"
+bright_magenta = "#ffa05e"
+hyprland_active_border = "#ff3900"
+hyprland_inactive_border = "#8e3a1c"

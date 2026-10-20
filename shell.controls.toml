@@ -1,0 +1,30 @@
+# Shared controls: honey-tan reading text, walnut idle borders, ember selection/focus.
+[controls]
+normal-color = "foreground"
+normal-fill-alpha = 0.04
+normal-border = "#8b4621"
+normal-border-width = 1
+normal-border-alpha = 0.6
+
+hover-cursor-color = "accent"
+hover-cursor-fill-alpha = 0.08
+hover-cursor-border = "#ff3900"
+hover-cursor-border-width = 1
+hover-cursor-border-alpha = 0.7
+
+focus-color = "accent"
+focus-fill-alpha = 0.08
+focus-border = "#ff3900"
+focus-border-width = 1
+focus-border-alpha = 1.0
+
+selected-color = "accent"
+selected-fill-alpha = 0.13
+selected-border = "#ff3900"
+selected-border-width = 1
+selected-border-alpha = 0.8
+
+pressed-color = "accent"
+pressed-fill-alpha = 0.18
+selection-color = "accent"
+selection-fill-alpha = 0.25

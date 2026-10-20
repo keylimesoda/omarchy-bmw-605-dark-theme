@@ -34,6 +34,6 @@ omarchy theme bg next
 
 ## Details
 
-[Palette, color science, and compatibility](artwork/DETAILS.md) · [Wallpaper credits](artwork/CREDITS.md) · [MIT license](LICENSE)
+[Palette, color science, and compatibility](artwork/DETAILS.md) · [Wallpaper credits](artwork/CREDITS.md) · [Theme: MIT](LICENSE)
 
 The speaker widget pictured is optional. Independent theme; no BMW affiliation.
